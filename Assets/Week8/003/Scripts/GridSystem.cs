@@ -7,8 +7,8 @@ public class GridSystem : MonoBehaviour {
 
     public List<MyGridCell> gridCellList = new List<MyGridCell>();
 
-    public int rows = 5;
-    public int columns = 5;
+    public int rows = 2;
+    public int columns = 2;
     public float cellSize = 1.0f;
 
     System.Random random;

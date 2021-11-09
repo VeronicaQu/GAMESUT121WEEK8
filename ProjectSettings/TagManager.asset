@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - ClickButton
   - GridSystem
+  - wall
+  - Exist
   layers:
   - Default
   - TransparentFX
